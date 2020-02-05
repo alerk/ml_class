@@ -1,4 +1,10 @@
 .ipynb_checkpoints/
+data/
 *.tar.gz
 *.gz
+*.doc
+*.docx
+*.csv
+*.pickle
+kalapa/
 commit.log
